@@ -1,8 +1,39 @@
 # ***NETFLIX, une stratégie en 3 piliers***
 Par cette analyse descriptive d'un jeu de données sur les réalisations proposées sur la plateforme *Netflix*, nous découvrons comment le géant du streaming créé l'*engagement addictif* de ses abonnées.
 
+## *A. Méthodologie*
 
+- Environnement de développement :
+  
+    - Power BI pour la gestion du projet.
+  
+- Prétraitement et Nettoyage des données :
+  
+    - Power Query (DAX)
+  
+- Modélisation en schéma en étoile :
+    - Power Query (DAX)
+      
+- Visualisations :
+    - Power BI afin de produire des visualisations interactives et des tableaux de bord clairs.
+  
+- Présentation des résultats :
+    - ONLY OFFICE pour la synthèse et la communication des conclusions.
+
+## *B. Problématique*
+
+Les enjeux de Netflix sont de taille : satisfaire la clientèle existante, augmenter le temps de visionnage, réduire le taux de désabonnement (churn) et inciter à l'engagement pour acquérir de nouveaux abonnés.  
+
+Quel est le secret derrière l'ascension de Netflix comme géant incontesté du streaming ?  
+Alors que la plateforme fait face à une concurrence croissante, cette étude analyse sa stratégie de contenu pour révéler si son succès repose sur une formule spécifique :  
+l'articulation entre une expansion massive à l'échelle mondiale, une adaptation minutieuse aux préférences culturelles locales, et un calendrier de publication stratégique.  
+Il s'agit de décrypter comment Netflix parvient à concilier domination quantitative et personnalisation qualitative pour capter, satisfaire et fidéliser des centaines de millions d'abonnés à travers le monde.
+
+## *C. Résultats*
 Cette étude met en évidence une stratégie structurée autour de trois piliers complémentaires :
+
+![Texte alternatif](/PRESENTATION_DES_RESULTATS.gif)
+
 
 ## ***1. Le Volume -> attirer par l'ampleur du catalogue*** 
   
