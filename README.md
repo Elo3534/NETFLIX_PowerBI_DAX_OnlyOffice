@@ -78,3 +78,9 @@ Pistes futures :
 📌 Croiser les données du catalogue avec les courbes d’abonnement pour modéliser l’impact des sorties de janvier sur la rétention.  
 📌 Intégrer un modèle prédictif pour anticiper les pics d’engagement.  
 📌 Étudier la relation genres × pays × abonnement.  
+
+## *D. Aperçus du dashboard sur PowerBI*
+
+![Texte alternatif](/gif_dashboard_powerBI/visuel_powerBI_1.gif)
+![Texte alternatif](/gif_dashboard_powerBI/visuel_powerBI_2.gif)
+![Texte alternatif](/gif_dashboard_powerBI/visuel_powerBI_3.gif)
