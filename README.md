@@ -32,7 +32,7 @@ Il s'agit de décrypter comment Netflix parvient à concilier domination quantit
 ## *C. Résultats*
 Cette étude met en évidence une stratégie structurée autour de trois piliers complémentaires :
 
-![Texte alternatif](/PRESENTATION_DES_RESULTATS.mp4)
+![Texte alternatif](/PRESENTATION_DES_RESULTATS.gif)
 
 
 ## ***1. Le Volume -> attirer par l'ampleur du catalogue*** 
