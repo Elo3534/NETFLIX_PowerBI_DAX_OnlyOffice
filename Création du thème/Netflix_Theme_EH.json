@@ -1,0 +1,218 @@
+﻿{
+    "name": "MyFirstTheme",
+    "dataColors": [
+        "#F9BBA9",
+        "#F79A7E",
+        "#F47853",
+        "#F13232",
+        "#B5411E",
+        "#792B14",
+        "#642310",
+        "#41170B"
+    ],
+    "foreground": "#FFFFFF",
+    "foregroundNeutralSecondary": "#D2D0CE",
+    "foregroundNeutralTertiary": "#979593",
+    "background": "#3a3a3a",
+    "backgroundLight": "#3B3A39",
+    "backgroundNeutral": "#605E5C",
+    "tableAccent": "#2878BD",
+    "maximum": "#792B14",
+    "center": "#F13232",
+    "minimum": "#F9BBA9",
+    "hyperlink": "#2878BD",
+    "visitedHyperlink": "#D0E4F5",
+    "textClasses": {
+        "callout": {
+            "fontFace": "Arial",
+            "color": "#FFFFFF"
+        },
+        "title": {
+            "fontFace": "Arial",
+            "color": "#FFFFFF"
+        },
+        "header": {
+            "fontFace": "Arial",
+            "color": "#FFFFFF"
+        },
+        "label": {
+            "fontFace": "Arial",
+            "color": "#FFFFFF",
+            "fontSize": 20
+        }
+    },
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#3a3a3a"
+                            }
+                        }
+                    }
+                ],
+                "visualHeader": [
+                    {
+                        "foreground": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "border": {
+                            "solid": {
+                                "color": "#3a3a3a"
+                            }
+                        },
+                        "background": {
+                            "solid": {
+                                "color": "#3a3a3a"
+                            }
+                        }
+                    }
+                ],
+                "outspacePane": [
+                    {
+                        "backgroundColor": {
+                            "solid": {
+                                "color": "#3a3a3a"
+                            }
+                        },
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "transparency": 0,
+                        "border": true,
+                        "borderColor": {
+                            "solid": {
+                                "color": "#979593"
+                            }
+                        }
+                    }
+                ],
+                "filterCard": [
+                    {
+                        "$id": "Applied",
+                        "transparency": 0,
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "backgroundColor": {
+                            "solid": {
+                                "color": "#605E5C"
+                            }
+                        },
+                        "inputBoxColor": {
+                            "solid": {
+                                "color": "#605E5C"
+                            }
+                        },
+                        "borderColor": {
+                            "solid": {
+                                "color": "#979593"
+                            }
+                        },
+                        "border": true
+                    },
+                    {
+                        "$id": "Available",
+                        "transparency": 0,
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "backgroundColor": {
+                            "solid": {
+                                "color": "#3a3a3a"
+                            }
+                        },
+                        "inputBoxColor": {
+                            "solid": {
+                                "color": "#3a3a3a"
+                            }
+                        },
+                        "borderColor": {
+                            "solid": {
+                                "color": "#979593"
+                            }
+                        },
+                        "border": true
+                    }
+                ],
+                "border": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#040404"
+                            }
+                        },
+                        "show": true,
+                        "radius": 20
+                    }
+                ]
+            }
+        },
+        "slicer": {
+            "*": {
+                "items": [
+                    {
+                        "background": {
+                            "solid": {
+                                "color": "#3a3a3a"
+                            }
+                        }
+                    }
+                ],
+                "numericInputStyle": [
+                    {
+                        "background": {
+                            "solid": {
+                                "color": "#3a3a3a"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "keyDriversVisual": {
+            "*": {
+                "keyInfluencersVisual": [
+                    {
+                        "canvasColor": {
+                            "solid": {
+                                "color": "#3B3A39"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "page": {
+            "*": {
+                "outspace": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#3a3a3a"
+                            }
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "transparency": 0
+                    }
+                ]
+            }
+        }
+    },
+    "bad": "#792B14",
+    "neutral": "#F9BBA9",
+    "good": "#F13232"
+}
