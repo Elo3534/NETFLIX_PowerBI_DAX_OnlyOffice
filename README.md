@@ -84,3 +84,4 @@ Pistes futures :
 ![Texte alternatif](/gif_dashboard_powerBI/visuel_powerBI_1.gif)
 ![Texte alternatif](/gif_dashboard_powerBI/visuel_powerBI_2.gif)
 ![Texte alternatif](/gif_dashboard_powerBI/visuel_powerBI_3.gif)
+![Texte alternatif](/schema_relationnel_NETFLIX.png)
