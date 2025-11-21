@@ -5,14 +5,14 @@ Par cette analyse descriptive d'un jeu de données sur les réalisations propos�
 
 - Environnement de développement :
   
-    - Power BI pour la gestion du projet.
+    - Power BI pour la gestion du projet (DAX)
   
 - Prétraitement et Nettoyage des données :
   
-    - Power Query (DAX)
+    - Power Query
   
 - Modélisation en schéma en étoile :
-    - Power Query (DAX)
+    - Power BI
       
 - Visualisations :
     - Power BI afin de produire des visualisations interactives et des tableaux de bord clairs.
